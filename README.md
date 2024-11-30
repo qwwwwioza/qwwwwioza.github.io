@@ -2,6 +2,10 @@
 
 **Name** : Satintree Petsuvun
 
+**NickName** : Fluk
+
+**Age** : 21
+
 **Contact** :
  - **phone** : 082-540-1785
  - **gmail** : Satintree123@gmail.com
