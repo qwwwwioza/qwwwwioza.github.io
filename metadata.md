@@ -1,8 +1,8 @@
-# Metadata  
+#  Keyword Metadata  
 
 ---
 
-## CISSP Glossary Student guide
+## CISSP Glossary Student Guide
 - ข้อมูลเกี่ยวกับข้อมูล  
 
 ### ChatGPT  
@@ -37,14 +37,14 @@
 
 ---
 
-## Metadata ในชีวิตประจำวัน
+## Sample in Daily Life
 
 - **เมทาดาต้าเชิงโครงสร้าง**: รูปแบบไฟล์ (DOC, PDF), ขนาดไฟล์, จำนวนหน้า, ภาษา
 - **เมทาดาต้าเชิงพรรณนา**: ผู้เขียน, วันที่สร้าง, วันที่แก้ไขล่าสุด, หัวข้อเอกสาร, คำสำคัญ
 
 ---
 
-## ลิ้งเพื่อน
+## URL
 [Metadata.md](https://github.com/FairFairFairFair/FairFairFairFair.github.io/blob/b4ba94e3431b3ed01da74c54cce0430fd3ad8feb/metadata.md)
 
 ---
