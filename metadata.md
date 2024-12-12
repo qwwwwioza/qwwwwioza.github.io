@@ -2,7 +2,7 @@
 
 ---
 
-## CISSP Glossary Student Guide
+## 1st Source (CISSP Glossary Student Guide)
 - ข้อมูลเกี่ยวกับข้อมูล  
 
 ### ChatGPT  
