@@ -1,6 +1,6 @@
 <center><h1>**ACCURACY**</h1></center>  
 
-**Defination by [accuracy](https://www.irion-edm.com/data-management-insight/data-quality-what-it-is-why-adopt-it-and-how-to-apply-it/)**
+**Definition by [accuracy](https://www.irion-edm.com/data-management-insight/data-quality-what-it-is-why-adopt-it-and-how-to-apply-it/)**
 
 - Accuracy: the level at which the data correctly describe the corresponding “real world” object or event;
   
