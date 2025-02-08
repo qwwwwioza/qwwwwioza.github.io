@@ -2,11 +2,13 @@
 
 **Definition by [OWASP](https://github.com/OWASP/ASVS/raw/v4.0.3/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.3-en.pdf)**
 
-- Accuracy: the level at which the data correctly describe the corresponding “real world” object or event;
+- Verify that URL redirects and forwards only allow destinations which appear
+on an allow list, or show a warning when redirecting to potentially untrusted
+content.
   
 **Chat GPT**
 
-- "ระดับที่ข้อมูลสามารถอธิบายวัตถุหรือเหตุการณ์ในโลกแห่งความเป็นจริงได้อย่างถูกต้อง" ซึ่งหมายถึงการที่ข้อมูลมีความถูกต้องและเหมาะสมในการสะท้อนหรือแสดงถึงสิ่งที่เกิดขึ้นในโลกจริง หรือสิ่งที่เราต้องการจะศึกษา หรือวิเคราะห์ในโลกแห่งความจริง
+- "ตรวจสอบให้แน่ใจว่าการเปลี่ยนเส้นทาง (redirect) และการส่งต่อ (forward) ของ URL อนุญาตให้ไปยังปลายทางที่อยู่ในรายการที่อนุญาตเท่านั้น หรือแสดงคำเตือนเมื่อเปลี่ยนเส้นทางไปยังเนื้อหาที่อาจไม่น่าเชื่อถือ
 
 **Monica**
 
