@@ -20,7 +20,7 @@ content.
 
 **Member**
 
-> - นายสตินทรี เพชรสุวรรณ 6530250239
-> - นายกมลภพ ปานบุญลือ 6503250301
-> - Kamolphop github : https://l3b1-qw.github.io/security-requirement
+- นายสตินทรี เพชรสุวรรณ 6530250239
+- นายกมลภพ ปานบุญลือ 6503250301
+- Kamolphop github : https://l3b1-qw.github.io/security-requirement
 
