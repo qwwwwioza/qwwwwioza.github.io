@@ -25,5 +25,5 @@ content.
 **Member**
 
 - นายสตินทรี เพชรสุวรรณ 6530250239
-- [นายกมลภพ ปานบุญลือ 6503250301][https://l3b1-qw.github.io/security-requirement]
+- [นายกมลภพ ปานบุญลือ 6503250301](https://l3b1-qw.github.io/security-requirement)
 
