@@ -1,6 +1,6 @@
 <center><h1>TOPIC : 5.1.5 Input Validation</h1></center>  
 
-**Definition by 5.1.5 Input Validation**
+**Definition 5.1.5 Input Validation**
 
 > - Verify that URL redirects and forwards only allow destinations which appear
 on an allow list, or show a warning when redirecting to potentially untrusted
