@@ -24,6 +24,6 @@ content.
 
 **Member**
 
-- นายสตินทรี เพชรสุวรรณ 6530250239
+- [นายสตินทรี เพชรสุวรรณ 6530250239](https://qwwwwioza.github.io/security-requirements)
 - [นายกมลภพ ปานบุญลือ 6503250301](https://l3b1-qw.github.io/security-requirement)
 
