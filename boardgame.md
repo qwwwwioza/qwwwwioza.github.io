@@ -24,18 +24,18 @@
 
 ## **📸Activity Pictures**  
 
-![ภาพกิจกรรม 1](Picture/boardgame1.jpg)  
-![ภาพกิจกรรม 2](Picture/boardgame2.jpg)  
-![ภาพกิจกรรม 3](Picture/boardgame3.jpg)  
-![ภาพกิจกรรม 4](Picture/boardgame4.jpg)  
-![ภาพกิจกรรม 5](Picture/boardgame5.jpg)  
+![ภาพกิจกรรม 1](mypicture/boardgame1.jpg)  
+![ภาพกิจกรรม 2](mypicture/boardgame2.jpg)  
+![ภาพกิจกรรม 3](mypicture/boardgame3.jpg)  
+![ภาพกิจกรรม 4](mypicture/boardgame4.jpg)  
+![ภาพกิจกรรม 5](mypicture/boardgame5.jpg)  
 
 ---
 
 ## **🎥 Activity Video**  
 
 📹 คลิกเพื่อรับชมวิดีโอ:  
-[![ภาพปกวิดีโอ](Picture/boardgame1.jpg)](https://drive.google.com/drive/folders/1C6mDLqBRXG89EEIS3mInEgqTQHAjjaBu?usp=sharing)  
+[![ภาพปกวิดีโอ](mypicture/boardgame1.jpg)](https://drive.google.com/drive/folders/1C6mDLqBRXG89EEIS3mInEgqTQHAjjaBu?usp=sharing)  
 
 ---
 
